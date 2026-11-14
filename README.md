@@ -4,7 +4,7 @@ Simulation and analysis code for the paper:
 
 > **No Convergence in Learned Eavesdropping–Detection Dynamics for BB84 Quantum Key Distribution**
 > Ramon Jose C. Bagunu
-> arXiv:2611.16372 · submitted to *Quantum Information Processing*
+> arXiv:2611.16372
 
 This is the follow-on to **Paper 1**, *Adversarial Reinforcement Learning for
 Adaptive Eavesdropping in BB84 Quantum Key Distribution* (*Quantum Inf. Process.*
